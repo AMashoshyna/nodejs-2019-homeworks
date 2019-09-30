@@ -5,4 +5,4 @@ branches:
   only:
     - master
 script:
-  - 'yarn run lint'
+  - 'yarn run lint:js'
